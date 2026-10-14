@@ -1,6 +1,7 @@
 # Aditya Shreehari Banada
 
 **MSc Artificial Intelligence & Machine Learning — University of Birmingham (Dubai)**
+
 Machine learning · time series · computer vision · based in Dubai
 
 ---
@@ -13,10 +14,10 @@ I've also worked on medical image segmentation using classical computer vision, 
 
 ### What I work with
 
-**Languages** Python · SQL · Java · C
-**ML** scikit-learn · XGBoost · PyTorch · pandas · NumPy · SciPy
-**Vision** OpenCV · scikit-image · Tesseract OCR
-**Tools** Jupyter · Google Colab · Git · Bloomberg Terminal
+- **Languages** — Python · SQL · Java · C
+- **Machine learning** — scikit-learn · XGBoost · PyTorch · pandas · NumPy · SciPy
+- **Computer vision** — OpenCV · scikit-image · Tesseract OCR
+- **Tools** — Jupyter · Google Colab · Git · Bloomberg Terminal
 
 ### Projects
 
